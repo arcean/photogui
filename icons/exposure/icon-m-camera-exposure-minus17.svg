@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="icon-m-camera-exposure-minus17-layer"
+   x="0px"
+   y="0px"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   style="enable-background:new 0 0 32 32;"
+   xml:space="preserve"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="icon-m-camera-exposure-minus17.svg"><metadata
+   id="metadata5600"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs5598" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="842"
+   inkscape:window-height="584"
+   id="namedview5596"
+   showgrid="false"
+   inkscape:zoom="7.625"
+   inkscape:cx="-12.393443"
+   inkscape:cy="16"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="icon-m-camera-exposure-minus17-layer" />
+<g
+   id="icon-m-camera-exposure-minus17">
+	<g
+   id="g5582">
+		<rect
+   style="fill:none;"
+   width="32"
+   height="32"
+   id="rect5584" />
+	</g>
+	<g
+   id="g5586">
+		<path
+   style="fill:#333333;fill-opacity:1"
+   d="M7.941,17.943H3.567v-2.154h4.374V17.943z"
+   id="path5588" />
+		<path
+   style="fill:#333333;fill-opacity:1"
+   d="M16.526,21.88H9.075v-1.426h2.494v-8.455l-2.494,0.534v-1.393l3.693-1.15h1.409v10.464h2.349V21.88    z"
+   id="path5590" />
+		<path
+   style="fill:#333333;fill-opacity:1"
+   d="M18.714,22.01c-0.794,0-1.425-0.632-1.425-1.426s0.631-1.441,1.425-1.441s1.441,0.647,1.441,1.441    S19.508,22.01,18.714,22.01z"
+   id="path5592" />
+		<path
+   style="fill:#333333;fill-opacity:1"
+   d="M28.433,11.367c-1.879,3.207-3.013,6.414-3.126,10.513h-2.77c0.097-3.759,1.441-7.419,3.143-10.188    h-4.714v-1.604h7.467V11.367z"
+   id="path5594" />
+	</g>
+</g>
+</svg>

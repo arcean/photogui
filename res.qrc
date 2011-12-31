@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/icon-m-camera-flash-always.png</file>
+        <file>icons/icon-m-camera-flash-always-selected.png</file>
+        <file>icons/icon-m-camera-flash-auto.png</file>
+        <file>icons/icon-m-camera-flash-auto-selected.png</file>
+        <file>icons/icon-m-camera-flash-off.png</file>
+        <file>icons/icon-m-camera-flash-off-selected.png</file>
+        <file>icons/icon-m-camera-flash-red-eye.png</file>
+        <file>icons/icon-m-camera-flash-red-eye-selected.png</file>
+        <file>icons/toolbar.png</file>
+        <file>icons/camera_n950/cam1.png</file>
+        <file>icons/camera_n950/cam2.png</file>
+        <file>icons/camera_n950/cam3.png</file>
+        <file>icons/camera_n950/cam4.png</file>
+        <file>icons/camera_n950/cam5.png</file>
+        <file>icons/camera_n950/cam6.png</file>
+        <file>icons/camera_n9/cam1.png</file>
+        <file>icons/camera_n9/cam2.png</file>
+        <file>icons/camera_n9/cam3.png</file>
+        <file>icons/camera_n9/cam4.png</file>
+        <file>icons/camera_n9/cam5.png</file>
+        <file>icons/camera_n9/cam6.png</file>
+        <file>icons/exposure/icon-m-camera-exposure-0.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-minus1.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-minus2.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-minus03.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-minus07.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-minus13.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-minus17.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-plus1.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-plus2.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-plus03.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-plus07.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-plus13.svg</file>
+        <file>icons/exposure/icon-m-camera-exposure-plus17.svg</file>
+        <file>icons/toolbar_portrait.png</file>
+    </qresource>
+</RCC>
